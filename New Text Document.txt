@@ -17,3 +17,5 @@ git config --global user.email "email"
 
 git log
 
+git checkout master
+
