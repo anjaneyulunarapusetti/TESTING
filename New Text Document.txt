@@ -2,6 +2,7 @@ git commands
 
 git add .
 
+<<<<<<< HEAD
 git commit -m "message"
 
 git push
@@ -9,3 +10,5 @@ git push
 git stash
 
 git pull
+=======
+>>>>>>> parent of 2087378... message
