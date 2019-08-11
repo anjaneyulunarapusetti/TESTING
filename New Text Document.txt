@@ -9,5 +9,11 @@ git status
 
 git commit -m "any message related to you commit"
 
+git config --global user.name "usermname"
+
+git config --global user.email "email"
+
+
+
 git log
 
