@@ -1,0 +1,13 @@
+we created git hub account
+git-scm.com
+
+git init
+
+git add . (specific name of file)
+
+git status
+
+git commit -m "any message related to you commit"
+
+git log
+
